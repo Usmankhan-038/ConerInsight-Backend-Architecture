@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+app/temp_uploads/
+heatmaps/
+out.txt
+out_utf8.txt
+ids.txt
+check_ids.py

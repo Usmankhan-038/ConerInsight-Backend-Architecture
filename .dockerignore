@@ -1,0 +1,11 @@
+.git
+__pycache__
+*.pyc
+.env
+.vercel
+app/temp_uploads
+heatmaps
+out.txt
+out_utf8.txt
+ids.txt
+check_ids.py
